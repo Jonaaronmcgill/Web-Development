@@ -1,0 +1,33 @@
+.template{
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 112px;
+    padding-bottom: 20;
+
+}
+
+
+.video-info{
+    display: inline-block;
+    width: 200px;
+}
+.video-name{
+    
+    margin-top: 0;
+    font-size: 14;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 12px
+}
+
+.artist{
+    color: blue;
+}
+
+.views{
+    color: rgb(9, 29, 9);
+    size: 200px;
+    font-size: 20px;
+    font-weight: 800;
+
+}
